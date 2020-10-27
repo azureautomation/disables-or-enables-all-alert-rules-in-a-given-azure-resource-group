@@ -1,0 +1,20 @@
+{
+    "Author": "Theo Browning",
+    "ContentSize": 3450,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/disables-or-enables-all-alert-rules-in-a-given-azure-resource-group./master/Disable_Enable_AllAlertRulesInRG.ps1",
+    "DownloadCount": 910,
+    "Id": "Disables-or-Enables-all-cfaf75dd",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 485,
+    "RaterCount": 1,
+    "Rating": 2.0,
+    "ReleaseDate": "2018-2-21T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script gets all the rules in a given Azure Resource Group and either Disables them or Enables them depending on the presence of the Enable switch parameter. Default action (no -Enable) is to disable all the rules. Rules that are currently already disabled  will stay disabled",
+    "Title": "Disables or Enables all Alert Rules in a given Azure Resource Group.",
+    "UpdatedDate": "2018-2-21T00:00:00",
+    "Url": "https://github.com/azureautomation/disables-or-enables-all-alert-rules-in-a-given-azure-resource-group.",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
